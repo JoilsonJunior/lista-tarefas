@@ -4,7 +4,8 @@
 </h1>
 
 <h1>
-<video src="video/Projeto Lista de Tarefas.mp4">
+<img src="img/Captura de tela 2024-06-15 202747.png">
+<img src="img/Projeto-Lista-de-Tarefas.gif">
 </h1>
 
 ## 📕 Sobre
